@@ -1,6 +1,7 @@
 #Movie Search App
-A responsive web application that allows users to search for movies, view de
-tails, and save favorites. Built with HTML, CSS, and JavaScript.
+
+
+A responsive web application that allows users to search for movies, view details, and save favorites. Built with HTML, CSS, and JavaScript.
 ![Screenshot 2025-05-09 172621](https://github.com/user-attachments/assets/009f7c96-2ee2-4991-81e2-633fcf85d730)
 ![Screenshot 2025-05-09 172714](https://github.com/user-attachments/assets/9321c0bf-0027-40f6-831c-f563d84f4caf)
 ![Screenshot 2025-05-09 173523](https://github.com/user-attachments/assets/aea114d5-34ff-46f6-810e-a9862e3de997)
