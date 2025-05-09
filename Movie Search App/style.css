@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background: #f4f4f9;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  .search-box {
+    margin: 20px 0;
+  }
+  
+  #search-input {
+    padding: 10px;
+    width: 70%;
+    border: 1px solid #ddd;
+  }
+  
+  #search-btn {
+    padding: 10px 20px;
+    background: #007BFF;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .movie-card {
+    background: white;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 10px 0;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    display: flex;
+    text-align: left;
+  }
+  
+  .movie-poster {
+    width: 150px;
+    margin-right: 20px;
+  }
+  
+  .movie-info h2 {
+    margin-top: 0;
+  }
