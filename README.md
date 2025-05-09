@@ -9,26 +9,20 @@ A responsive web application that allows users to search for movies, view detail
 
 
 
-Features
-Search Functionality
+#Features:-
+#Search Functionality
 Search for movies by title using the OMDB API
 Real-time search results as you type
-Clear search results with a reset button
-
-Movie Display
+Clear search results with a reset button Movie Display
 Responsive grid layout that adapts to screen size
-
-Movie cards showing:
-
+#Movie cards showing:
 Poster image (with placeholder for missing images)
-
 Title and release year
-
 Brief overview (truncated for space)
-
 "More Details" button
 
-Technologies Used:
+
+#Technologies Used:
 
 Frontend: HTML5, CSS3, JavaScript (ES6+)
 
